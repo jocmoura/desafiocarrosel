@@ -1,0 +1,14 @@
+@media screen and (max-width:500px) {
+    header .container{
+        display: block;
+        flex-direction: column;
+    }
+    nav a{
+       padding-top: 15px;
+    }
+}
+@media screen and (max-width:500px) {
+    .setup-info-p img{
+        width: 600px;
+    }
+}
